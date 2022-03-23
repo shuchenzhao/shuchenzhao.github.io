@@ -6,7 +6,7 @@
   <link href="https://shuchenzhao.github.io/atom.xml" rel="self"/>
   
   <link href="https://shuchenzhao.github.io/"/>
-  <updated>2022-03-23T03:33:22.763Z</updated>
+  <updated>2022-03-23T03:35:33.279Z</updated>
   <id>https://shuchenzhao.github.io/</id>
   
   <author>
@@ -21,15 +21,14 @@
     <link href="https://shuchenzhao.github.io/2022/03/22/hello-world/"/>
     <id>https://shuchenzhao.github.io/2022/03/22/hello-world/</id>
     <published>2022-03-22T14:18:59.581Z</published>
-    <updated>2022-03-23T03:33:22.763Z</updated>
+    <updated>2022-03-23T03:35:33.279Z</updated>
     
-    <content type="html"><![CDATA[<p>###Hi! </p><h4 id="It’s-great-to-be-here-in-Hexo-This-is-my-very-first-post"><a href="#It’s-great-to-be-here-in-Hexo-This-is-my-very-first-post" class="headerlink" title="It’s great to be here in Hexo. This is my very first post."></a>It’s great to be here in Hexo. This is my very first post.</h4><p>For now, however, I don’t know exactly what I want to post in this blog. Maybe I will sharing what I am learning right now and record some daily life. As long as I come up with a inspiringly idea, I’ll write it down in time and release it so that more people can see it.</p>]]></content>
+    <content type="html"><![CDATA[<h3 id="Hi"><a href="#Hi" class="headerlink" title="Hi!"></a>Hi!</h3><h4 id="It’s-great-to-be-here-in-Hexo-This-is-my-very-first-post"><a href="#It’s-great-to-be-here-in-Hexo-This-is-my-very-first-post" class="headerlink" title="It’s great to be here in Hexo. This is my very first post."></a>It’s great to be here in Hexo. This is my very first post.</h4><p>For now, however, I don’t know exactly what I want to post in this blog. Maybe I will sharing what I am learning right now and record some daily life. As long as I come up with a inspiringly idea, I’ll write it down in time and release it so that more people can see it.</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;###Hi! &lt;/p&gt;
-&lt;h4 id=&quot;It’s-great-to-be-here-in-Hexo-This-is-my-very-first-post&quot;&gt;&lt;a href=&quot;#It’s-great-to-be-here-in-Hexo-This-is-my-very-fir</summary>
+    <summary type="html">&lt;h3 id=&quot;Hi&quot;&gt;&lt;a href=&quot;#Hi&quot; class=&quot;headerlink&quot; title=&quot;Hi!&quot;&gt;&lt;/a&gt;Hi!&lt;/h3&gt;&lt;h4 id=&quot;It’s-great-to-be-here-in-Hexo-This-is-my-very-first-post&quot;&gt;&lt;a hr</summary>
       
     
     
