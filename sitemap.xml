@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://shuchenzhao.github.io/2022/05/09/JS%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D%E7%9A%8412%E7%A7%8D%E6%96%B9%E6%B3%95/</loc>
+    <loc>https://shuchenzhao.github.io/2022/05/10/JS%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%86%99%E6%B3%95/</loc>
     
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-05-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
 
   <url>
     <loc>https://shuchenzhao.github.io/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
